@@ -4,7 +4,7 @@ article > img
     /*Sizes image.*/
     width: 50px; 
     height: 50px;
-    /*Gives image 25px top padding, which       places the image in the vertical center     of the article it contains, which has a     height of 100px.*/
+    /*Gives image 25px top padding, which places the image in the vertical center of the article it contains, which has a height of 100px.*/
     padding: 25px 0px;
     /*Aligns image to left of article.*/
     float: left;
@@ -12,7 +12,7 @@ article > img
 
 article
   {
-    /*Specifies that articles will have a       border and have a height of 100px*/
+    /*Specifies that articles will have a border and have a height of 100px*/
     border: 1px solid;
     height: 100px;
   }
